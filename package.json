@@ -1,0 +1,16 @@
+{
+  "name": "vite-alpine",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.5.4"
+  },
+  "dependencies": {
+    "alpinejs": "^3.3.5",
+    "pikaday": "^1.8.2"
+  }
+}

@@ -24,4 +24,4 @@ npm run dev
 
 ## Result
 
-[screenshot]
+<img width="1552" alt="vite-alpinejs" src="https://user-images.githubusercontent.com/53351370/134362585-154cff3f-8cb2-4f22-a3d0-4fd3b22116df.png">

@@ -1,6 +1,4 @@
-# Vite + Alpine.js
-
-Familiarizing with Alpine.js
+# Alpine.js examples
 
 ## Overview
 
